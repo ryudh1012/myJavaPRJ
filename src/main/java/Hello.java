@@ -9,5 +9,7 @@ public class Hello {
 
         System.out.println("another test!");
 
+        System.out.println("again test!");
+
     }
 }
