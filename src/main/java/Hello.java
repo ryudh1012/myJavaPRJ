@@ -11,5 +11,7 @@ public class Hello {
 
         System.out.println("again test!");
 
+        System.out.println("hello, world!");
+
     }
 }
