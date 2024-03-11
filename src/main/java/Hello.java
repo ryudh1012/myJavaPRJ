@@ -15,5 +15,7 @@ public class Hello {
 
         System.out.println("123456");
 
+        System.out.println("I say hello!");
+
     }
 }
