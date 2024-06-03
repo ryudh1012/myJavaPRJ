@@ -16,7 +16,7 @@ public class Code09_02 {
         numAry[3] = s.nextInt();
 
         hap = numAry[0] + numAry[1] + numAry[2] + numAry[3];
-        System.out.println("합게 --> " + hap);
+        System.out.println("합계 --> " + hap);
 
         s.close();
     }
