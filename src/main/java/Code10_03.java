@@ -1,5 +1,5 @@
 public class Code10_03 {
-    static int plus(int v1, int v2){
+    public static int plus(int v1, int v2){
         int result;
         result = v1 + v2;
         return result;
