@@ -16,6 +16,6 @@ public class MapExam {
 
         map.entrySet().forEach(entry ->{
             System.out.println(entry.getKey() + " : " + entry.getValue());
-        });
+        }); //
     }
 }
